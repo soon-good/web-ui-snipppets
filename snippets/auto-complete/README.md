@@ -1,1 +1,1 @@
-![1](./img/INTRO.png)
+![1](./INTRO.png)
